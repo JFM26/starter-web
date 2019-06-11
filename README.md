@@ -15,3 +15,7 @@ Main purpose is to provide simple exmaples for Git training demos.
 Simple web project, deployment can be on any web server or local file system.
 
 ## How To Contribute
+
+###Copyright
+
+2019 git training
