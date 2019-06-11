@@ -8,8 +8,10 @@ Example to show different parts of git repository and various commands using a w
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Main purpose is to provide simple exmaples for Git training demos.
 
 ## Deployment
+
+Simple web project, deployment can be on any web server or local file system.
 
 ## How To Contribute
