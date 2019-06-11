@@ -16,6 +16,8 @@ Simple web project, deployment can be on any web server or local file system.
 
 ## How To Contribute
 
+Fork this repo and issue pull request for review
+
 ###Copyright
 
 2019 git training
